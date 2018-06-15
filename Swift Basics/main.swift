@@ -70,6 +70,7 @@ for i in 5...10{
 }
 
 var age : Int = 0
+
 while(age < 6){
     print("age = \(age)")
     age+=1
